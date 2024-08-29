@@ -18,7 +18,7 @@ es4961@srmist.edu.in
 Track Name : EdTech
 
 Problem Statement :
-
+The traditional education system often fails to meet individual student needs due to its one-size-fits-all approach. Teachers lack tools to create and track personalized learning experiences, and students miss out on tailored guidance that could enhance their academic growth.
 
 
 Introduction to the problem : 
